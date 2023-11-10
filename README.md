@@ -9,3 +9,5 @@
     - mac
     cmd+shift+d
     则会删除掉console.log所在的代码行
+### 增加插件
+- 当前只设置了本地.vsix增加
